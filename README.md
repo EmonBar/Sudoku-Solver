@@ -7,7 +7,7 @@ This project is an OCR (Optical Character Recognition) software that solves a su
 To download our project, run the following command:
 
 ```
-wget https://github.com/TRKirua/Sudoku-Solver/archive/refs/heads/main.zip -O "SudokuSolver.zip" &&
+wget https://github.com/EmonBar/Sudoku-Solver/archive/refs/heads/main.zip -O "SudokuSolver.zip" &&
 unzip ./"SudokuSolver.zip" &&
 rm ./"SudokuSolver.zip"
 ```
